@@ -1,6 +1,6 @@
 ﻿# Unchurn
 
-[Português Brasil](./README-PT.md) | [English](./README.md)
+[Português Brasil](./README-PT-BR.md) | [English](./README.md)
 
 **Unchurn** es una plataforma SaaS creada para ayudar a empresas con modelos de suscripción a reducir el churn y aumentar la retención mediante comunicación proactiva, automatizaciones inteligentes y datos del ciclo de vida del cliente.
 
